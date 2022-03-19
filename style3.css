@@ -82,7 +82,7 @@ margin-top: 70px;
 }
 
 #main-div{
-    margin-top: 150px;
+    margin-top: 30px;
 }
 .clothingbox2{
     display:flex;
@@ -92,9 +92,9 @@ margin-top: 70px;
    
     
 }
-#accesories_box{
+/* #accesories_box{
     margin-bottom: 100px;
-}
+} */
 .accessoriesbox2{
     display:flex;
     flex-wrap: wrap;
@@ -608,6 +608,16 @@ margin-right: 15px;
     bottom: 20;
     right: 20;
     height: 50px;
+}
+#clothingbox22{
+    display: block;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 60px;
+}
+#accesoriesbox22{
+    display: block;
+    margin-bottom: 90px;
 }
 
 
